@@ -1,1 +1,1 @@
-# tipicodev.github.io
+https://tipico.dev
